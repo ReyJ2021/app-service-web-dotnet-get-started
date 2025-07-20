@@ -29,3 +29,8 @@ steps:
     configuration: '$(buildConfiguration)'
 
 
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Pipeline.Workspace)'
+    artifact: 'myartifact'
+    publishLocation: 'pipeline'
