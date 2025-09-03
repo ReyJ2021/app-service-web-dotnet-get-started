@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ReyDev2025/8d04335f-a4fb-4eec-8918-6788e2da39ff/43806c74-e944-45e3-904c-a2483df6277e/_apis/work/boardbadge/29bef433-a1dd-4067-b6ab-7e32f3482ffb)](https://dev.azure.com/ReyDev2025/8d04335f-a4fb-4eec-8918-6788e2da39ff/_boards/board/t/43806c74-e944-45e3-904c-a2483df6277e/Microsoft.RequirementCategory)
 ---
 services: app-service\web,app-service
 platforms: dotnet
